@@ -20,7 +20,7 @@ The importance of soil moisture in the SIFDE is unquestionable. Here is a brief 
 
 ### Crop Nutrient Model 
 
-The nutrients of crops are their nutrients, that is, water-soluble fertilizers here. Water-soluble fertilizers are important components of crop nutrition. Here we mainly introduce the interaction between most used fertilizers and their role in promoting of crop yields.
+The nutrients of crops are their nutrients, that is, water-soluble fertilizers here. Water-soluble fertilizers are important components of crop nutrition. Here we mainly introduce the interaction between major compound fertilizers and their role in promoting of crop yields.
 
 ### Parameter Calibration Method
 
